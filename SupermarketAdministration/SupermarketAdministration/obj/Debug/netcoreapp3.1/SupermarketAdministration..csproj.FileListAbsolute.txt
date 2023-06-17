@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\SupermarketAdministration\SupermarketAdministration\bin\Debug\netcoreapp3.1\SupermarketAdministration..exe
+C:\Users\User\source\repos\SupermarketAdministration\SupermarketAdministration\bin\Debug\netcoreapp3.1\SupermarketAdministration..deps.json
+C:\Users\User\source\repos\SupermarketAdministration\SupermarketAdministration\bin\Debug\netcoreapp3.1\SupermarketAdministration..runtimeconfig.json
+C:\Users\User\source\repos\SupermarketAdministration\SupermarketAdministration\bin\Debug\netcoreapp3.1\SupermarketAdministration..runtimeconfig.dev.json
+C:\Users\User\source\repos\SupermarketAdministration\SupermarketAdministration\bin\Debug\netcoreapp3.1\SupermarketAdministration..dll
+C:\Users\User\source\repos\SupermarketAdministration\SupermarketAdministration\bin\Debug\netcoreapp3.1\SupermarketAdministration..pdb
+C:\Users\User\source\repos\SupermarketAdministration\SupermarketAdministration\obj\Debug\netcoreapp3.1\SupermarketAdministration..csproj.AssemblyReference.cache
+C:\Users\User\source\repos\SupermarketAdministration\SupermarketAdministration\obj\Debug\netcoreapp3.1\SupermarketAdministration..GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\SupermarketAdministration\SupermarketAdministration\obj\Debug\netcoreapp3.1\SupermarketAdministration..AssemblyInfoInputs.cache
+C:\Users\User\source\repos\SupermarketAdministration\SupermarketAdministration\obj\Debug\netcoreapp3.1\SupermarketAdministration..AssemblyInfo.cs
+C:\Users\User\source\repos\SupermarketAdministration\SupermarketAdministration\obj\Debug\netcoreapp3.1\SupermarketAdministration..csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\SupermarketAdministration\SupermarketAdministration\obj\Debug\netcoreapp3.1\SupermarketAdministration..dll
+C:\Users\User\source\repos\SupermarketAdministration\SupermarketAdministration\obj\Debug\netcoreapp3.1\SupermarketAdministration..pdb
+C:\Users\User\source\repos\SupermarketAdministration\SupermarketAdministration\obj\Debug\netcoreapp3.1\SupermarketAdministration..genruntimeconfig.cache
